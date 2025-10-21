@@ -1,0 +1,145 @@
+{
+  "brand": {
+    "name": "Linked",
+    "accent": "#2D9CDB"
+  },
+  "layout": "Simple",
+  "sections": [
+    {
+      "type": "Hero",
+      "variant": "centered",
+      "headline": "AI-Powered Web Solutions by Linked",
+      "subheadline": "Transform your business with custom web development and cutting-edge artificial intelligence.",
+      "primaryCta": {
+        "label": "Get a Free Consultation",
+        "href": "/contact"
+      },
+      "image": {
+        "kind": "icon",
+        "name": "ai-network",
+        "url": "https://cdn-icons-png.flaticon.com/512/4712/4712035.png"
+      }
+    },
+    {
+      "type": "Features",
+      "items": [
+        {
+          "title": "AI-Powered Web Solutions",
+          "desc": "We design and develop intelligent websites and applications that leverage the latest in artificial intelligence to drive"
+        },
+        {
+          "title": "Custom AI Integrations",
+          "desc": "Seamlessly integrate AI features such as chatbots, recommendation engines, and automation tools tailored to your needs."
+        },
+        {
+          "title": "End-to-End Development",
+          "desc": "From concept to launch, our team handles every aspect of your web project, ensuring quality and innovation at every step"
+        },
+        {
+          "title": "Scalable Architecture",
+          "desc": "We build robust, scalable platforms that grow with your business and adapt to evolving technology trends."
+        }
+      ]
+    },
+    {
+      "type": "Testimonials",
+      "items": [
+        {
+          "name": "Sarah T., CTO at FinTechPro",
+          "quote": "Linked delivered an AI-powered platform that transformed our workflow. Their expertise and responsiveness were outstanding."
+        },
+        {
+          "name": "James R., Founder of HealthSync",
+          "quote": "The Linked team built a custom AI solution that exceeded our expectations. Highly recommend for any AI-driven project."
+        },
+        {
+          "name": "Priya S., Product Manager at EduNext",
+          "quote": "Working with Linked was seamless. Their innovative approach to AI helped us launch faster and smarter."
+        }
+      ]
+    },
+    {
+      "type": "Pricing",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$499",
+          "period": "per project",
+          "features": [
+            "AI-powered website",
+            "Up to 5 pages",
+            "Basic chatbot integration",
+            "1 month support"
+          ]
+        },
+        {
+          "name": "Growth",
+          "price": "$1,299",
+          "period": "per project",
+          "features": [
+            "Custom AI solutions",
+            "Up to 15 pages",
+            "Advanced chatbot & automation",
+            "3 months support",
+            "Analytics dashboard"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": "Custom",
+          "period": "per project",
+          "features": [
+            "Full-scale AI integration",
+            "Unlimited pages",
+            "Dedicated AI consultant",
+            "Ongoing support & maintenance",
+            "Priority delivery"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "FAQ",
+      "items": [
+        {
+          "q": "What services does Linked offer?",
+          "a": "Linked specializes in building custom web solutions powered by artificial intelligence, including AI-driven websites, automation tools, and data analytics platforms."
+        },
+        {
+          "q": "Who are your typical clients?",
+          "a": "We work with startups, enterprises, and organizations looking to leverage AI to enhance their digital presence and streamline business processes."
+        },
+        {
+          "q": "How does Linked integrate AI into web development?",
+          "a": "Our team uses the latest AI technologies to create intelligent features such as chatbots, recommendation engines, and automated workflows tailored to your business needs."
+        },
+        {
+          "q": "What is the process for starting a project with Linked?",
+          "a": "Contact us for a free consultation. We’ll discuss your goals, propose a solution, and provide a detailed project roadmap."
+        },
+        {
+          "q": "Do you offer ongoing support and maintenance?",
+          "a": "Yes, we provide continuous support, updates, and optimization to ensure your AI-powered solutions remain effective and secure."
+        }
+      ]
+    },
+    {
+      "type": "CTA",
+      "headline": "Ready to elevate your business with AI-powered solutions?",
+      "cta": {
+        "label": "Get a Free Consultation",
+        "href": "/contact"
+      }
+    },
+    {
+      "type": "LeadCapture",
+      "headline": "Get a Free AI Solution Consultation",
+      "placeholder": "Enter your email to get started",
+      "button": "Request Consultation"
+    },
+    {
+      "type": "Footer",
+      "note": "© 2024 Linked. AI-powered web solutions. All rights reserved."
+    }
+  ]
+}
